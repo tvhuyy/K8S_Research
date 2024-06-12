@@ -7,3 +7,4 @@ Nghiên cứu, tìm hiểu về K8S
 ### I. Kubernetes Primer
 
 1. [Kubernetes Background](./Note_Kubernetes_Book/1.1%20Kubernetes%20Background.md)
+2. [Kubernetes as the Operating System of the Cloud](./Note_Kubernetes_Book/1.2%20Kubernetes%20as%20the%20Operating%20system%20of%20the%20cloud.md)
