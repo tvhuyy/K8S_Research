@@ -12,3 +12,4 @@ Nghiên cứu, tìm hiểu về K8S
 ### II. Kubernetes Principles of Operation
 
 0. [Overview chapter](./Note_Kubernetes_Book/2.0%20Overview%20chapter%20II.md)
+1. [Kubernetes from 40K feet](./Note_Kubernetes_Book/2.1%20Kubernetes%20from%2040K%20feet.md)
