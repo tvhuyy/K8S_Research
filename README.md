@@ -15,3 +15,4 @@ Nghiên cứu, tìm hiểu về K8S
 1. [Kubernetes from 40K feet](./Note_Kubernetes_Book/2.1%20Kubernetes%20from%2040K%20feet.md)
 2. [Control plane and worker nodes](./Note_Kubernetes_Book/2.2%20Control%20Plane%20and%20Worker%20Nodes.md)
 3. [Kubernetes DNS](./Note_Kubernetes_Book/2.3%20Kubernetes%20DNS.md)
+4. [Packaging apps for Kubernetes](./Note_Kubernetes_Book/2.4%20Packaging%20apps%20for%20Kubernetes.md)
