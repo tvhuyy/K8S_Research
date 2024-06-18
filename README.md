@@ -16,3 +16,4 @@ Nghiên cứu, tìm hiểu về K8S
 2. [Control plane and worker nodes](./Note_Kubernetes_Book/2.2%20Control%20Plane%20and%20Worker%20Nodes.md)
 3. [Kubernetes DNS](./Note_Kubernetes_Book/2.3%20Kubernetes%20DNS.md)
 4. [Packaging apps for Kubernetes](./Note_Kubernetes_Book/2.4%20Packaging%20apps%20for%20Kubernetes.md)
+5. [The declarative model and desired state](./Note_Kubernetes_Book/2.5%20The%20declarative%20model%20and%20desired%20state.md)
