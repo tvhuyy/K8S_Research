@@ -19,3 +19,4 @@ Nghiên cứu, tìm hiểu về K8S
 5. [The declarative model and desired state](./Note_Kubernetes_Book/2.5%20The%20declarative%20model%20and%20desired%20state.md)
 6. [Pods](./Note_Kubernetes_Book/2.6%20Pods.md)
 7. [Deployments](./Note_Kubernetes_Book/2.7%20Deployments.md)
+8. [Service objects and stable networking](./Note_Kubernetes_Book/2.8%20Service%20objects%20and%20stable%20networking.md)
