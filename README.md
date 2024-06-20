@@ -20,3 +20,4 @@ Nghiên cứu, tìm hiểu về K8S
 6. [Pods](./Note_Kubernetes_Book/2.6%20Pods.md)
 7. [Deployments](./Note_Kubernetes_Book/2.7%20Deployments.md)
 8. [Service objects and stable networking](./Note_Kubernetes_Book/2.8%20Service%20objects%20and%20stable%20networking.md)
+9. [Chapter Summary](./Note_Kubernetes_Book/2.9%20Chapter%20summary.md)
