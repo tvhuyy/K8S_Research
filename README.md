@@ -25,3 +25,4 @@ Nghiên cứu, tìm hiểu về K8S
 ### III. Getting Kubernetes
 
 0. [Overview Chapter](./Note_Kubernetes_Book/3.0%20Overview%20Chapter.md)
+1. [Creating a Kubernetes cluster on PC](./Note_Kubernetes_Book/3.1%20Creating%20a%20Kubernetes%20cluster%20on%20PC.md)
