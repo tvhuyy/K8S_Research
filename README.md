@@ -27,3 +27,4 @@ Nghiên cứu, tìm hiểu về K8S
 0. [Overview Chapter](./Note_Kubernetes_Book/3.0%20Overview%20Chapter.md)
 1. [Creating a Kubernetes cluster on PC](./Note_Kubernetes_Book/3.1%20Creating%20a%20Kubernetes%20cluster%20on%20PC.md)
 2. [Creating a hosted Kubernetes cluster in the cloud](./Note_Kubernetes_Book/3.2%20Creating%20a%20hosted%20Kubernetes%20cluster%20in%20the%20cloud.md)
+3. [Install and work with kubectl](./Note_Kubernetes_Book/3.3%20Install%20and%20work%20with%20kubectl.md)
