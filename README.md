@@ -33,3 +33,4 @@ Nghiên cứu, tìm hiểu về K8S
 ### IV. Working with Pods
 
 0. [Overview Chapter IV](./Note_Kubernetes_Book/4.0%20Overview%20chapter%20IV.md)
+1. [Pod theory](./Note_Kubernetes_Book/4.1%20Pod%20theory.md)
